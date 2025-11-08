@@ -5,3 +5,4 @@
 ### Week-1
 
 - Intro and Expo setup from scratch.
+- Text, View and Image components.
